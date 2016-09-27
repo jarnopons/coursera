@@ -1,0 +1,16 @@
+#header-nav {
+	background-color: #A9A9A9;
+}
+
+.navbar-default .navbar-brand{
+	font-weight: bold;
+	color: black;
+}
+
+.navbar-nav {
+	background-color: #87CEFA;
+}
+
+p {
+	background-color: #FF7F50;
+}
